@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20Jiya%20this%20side👋&fontSize=55&desc=Full%20Stack%20Developer%20|%20Al%20Engineer%20|%20Problem%20Solver&descAlign=48&descSize=25&fontAlignY=37&animation=fadeIn&descAlignY=53"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=216&color=gradient&text=Hi,%20Jiya%20this%20side👋&fontSize=46&fontAlign=50&fontAlignY=30&descSize=19&desc=Full%20Stack%20Developer%20|%20Al%20Engineer%20|%20Problem%20Solver&descAlignY=48"/>
 </p>
 
 ## 🎯 About Me
