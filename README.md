@@ -1,24 +1,33 @@
+<!-- TOP COLORFUL LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20,%20Jiya%20this%20side👋&textBg=false"/>
 </p>
 
 ## 🎯 About Me
 
-<table width="100%">
+<table width="100%" style="border:1px solid #30363d;">
 <tr>
-<td width="60%">
 
-### 👋 Hi, I'm Jiya.  
-A passionate developer from India 🇮🇳
+<td width="60%" style="padding:20px;">
+
+👋 Hello World! I'm **Jiya**
+<br>
+🇮🇳 Indian coder crafting solutions with code
+<br>
 Welcome to my Github profile!
 
 </td>
 
-<td width="40%" align="right">
+<td width="40%" align="center" style="padding:10px;">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="350"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -44,8 +53,15 @@ Welcome to my Github profile!
 ![](https://nirzak-streak-stats.vercel.app/?user=jiya-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiya-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
-  https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png
-  https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwNzQ2OTEsIm5iZiI6MTc3NDA3NDM5MSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0NjctODk3Y2Q3NTctZWExZi00OTJkLWFhZjktNmQxNjc0MTc3ZTA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIxVDA2MjYzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhYmE1NmI0NzEzNTJlZjJlMWJlZDU2NTJlY2Y3YWNiNjA5ZjU4NGMzNWVlNWRiNmZlYjAzNjhlZWFhYmQ2YTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lxkgzq5m7FpeOTus2RuxK874qpCyqKehnxpv25alQCs
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="220"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="220"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif" width="220"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" width="220"/>
+</p>
+
+<!-- BOTTOM COLORFUL LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5"/>
 </p>
