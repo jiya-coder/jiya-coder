@@ -1,7 +1,17 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20,%20Jiya%20this%20side👋&textBg=false
+<h3 align="center">A passionate developer from India</h3>
 ## Hi there 👋
-# 💫 About Me:
-🎯 Interests	Software Development • AI/ML • Full-Stack Development<br>📚 Learning	Advanced Programming • Emerging Technologies • Cloud Computing<br>🤝 Collaboration	Open-Source Projects • Innovative Solutions • Tech Communities<br>🏷️ Pronouns	SHe/Her<br>⚡ Fun Fact	Always exploring new technologies and building cool projects!
 
+## 🎯 About Me
+
+| 🚀 Category | 💡 Details |
+|------------|-----------|
+| 🔭 I’m currently working on | Building full-stack web applications and solving advanced Data Structures & Algorithms problems in Java |
+| 👯 I’m looking to collaborate on | Open-source projects related to Web Development, AI/ML applications, and backend systems |
+| 🤝 I’m looking for help with | System design, real-world project architecture, and gaining hands-on industry experience through internships |
+| 🌱 I’m currently learning | Full-stack Web Development (HTML, CSS, JavaScript, React), Artificial Intelligence basics, and advanced DSA in Java |
+| 💬 Ask me about | Java, OOP concepts, DSA, Web Development, and beginner-level AI projects |
+| ⚡ Fun fact | I love combining logic with creativity — from solving algorithms to building smart and interactive applications 🤖✨ |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jiyaa_0701?igsh=Zmw0M3Z0NWMyNHhk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jiya-jaiswal0701/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jiyajaiswal@gmail.com) 
