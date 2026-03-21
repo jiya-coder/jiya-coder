@@ -1,23 +1,22 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20,%20Jiya%20this%20side👋&textBg=false"/>
-  <h3 align="center">A passionate developer from India</h3>
 </p>
 
 ## 🎯 About Me
 
-## 👋 Hi there
-
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="60%">
 
-### 👋 Hi there  
-Welcome to my GitHub profile!
+### 👋 Hi, I'm Jiya.  
+A passionate developer from India 🇮🇳
+Welcome to my Github profile!
 
 </td>
-<td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250"/>
+<td width="40%" align="right">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300"/>
 
 </td>
 </tr>
