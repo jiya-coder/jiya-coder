@@ -34,11 +34,11 @@ Welcome to my Github profile!
 
 | 🚀 Category | 💡 Details |
 |------------|-----------|
-| 🔭 I’m currently working on | Building full-stack web applications and solving advanced Data Structures & Algorithms problems in Java |
+| 🔭 I’m currently working on | Building full-stack web applications and solving advanced Data Structures & Algorithms problems |
 | 👯 I’m looking to collaborate on | Open-source projects related to Web Development, AI/ML applications, and backend systems |
 | 🤝 I’m looking for help with | System design, real-world project architecture, and gaining hands-on industry experience through internships |
-| 🌱 I’m currently learning | Full-stack Web Development (HTML, CSS, JavaScript, React), Artificial Intelligence basics, and advanced DSA in Java |
-| 💬 Ask me about | Java, OOP concepts, DSA, Web Development, and beginner-level AI projects |
+| 🌱 I’m currently learning | Full-stack Web Development (HTML, CSS, JavaScript, React), Artificial Intelligence basics, and advanced DSA in C++ |
+| 💬 Ask me about | C++, OOP concepts, DSA, Web Development, and beginner-level AI projects |
 | ⚡ Fun fact | I love combining logic with creativity — from solving algorithms to building smart and interactive applications 🤖✨ |
 
 
