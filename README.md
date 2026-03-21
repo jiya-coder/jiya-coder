@@ -1,9 +1,4 @@
 <div align="center">
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQwNzQ2OTEsIm5iZiI6MTc3NDA3NDM5MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIxVDA2MjYzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxOTc3ZmIwNDhiMWM2ZjRiM2FmMWI3ZDMyYjk5OTlkOWI1OWI1MTc2NmM2YWJmMWI2ODNlZGUzMGVhNGE3YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.I0BAgs_vCfYuEmV3HkH5WWdPq1skXZxEnrFZNTtFtkc"/>
-</p>
-  
 <!-- TOP COLORFUL LINE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5"/>
@@ -125,7 +120,7 @@ Welcome to my Github profile!
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&text=Input%20text&section=footer&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&section=footer"/>
 </p>
 
 <!-- BOTTOM COLORFUL LINE -->
