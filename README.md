@@ -1,8 +1,11 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20,%20Jiya%20this%20side👋&textBg=false
-<h3 align="center">A passionate developer from India</h3>
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Your%20Name%20👋&fontSize=40&fontAlignY=35&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20,%20Jiya%20this%20side👋&textBg=false)" />
+  <h3 align="center">A passionate developer from India</h3>
+</p>
 
 ## 🎯 About Me
+
+## Hi there 👋
 
 | 🚀 Category | 💡 Details |
 |------------|-----------|
