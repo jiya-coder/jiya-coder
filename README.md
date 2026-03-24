@@ -1,8 +1,8 @@
 <div align="center">
 <!-- TOP COLORFUL LINE -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=6&width=100%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=216&color=gradient&text=Hi,%20Jiya%20this%20side👋&fontSize=46&fontAlign=50&fontAlignY=30&descSize=19&desc=Full%20Stack%20Developer%20|%20Al%20Engineer%20|%20Problem%20Solver&descAlignY=48"/>
