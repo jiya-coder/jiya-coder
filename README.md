@@ -1,7 +1,7 @@
 <div align="center">
 <!-- TOP COLORFUL LINE -->
-<p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5" width="100%"/>
 </p>
 
 <p align="center">
@@ -124,8 +124,8 @@ Welcome to my Github profile!
 </p>
 
 <!-- BOTTOM COLORFUL LINE -->
-<p align="center"  width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5" width="100%"/>
 </p>
 
 </div>
