@@ -1,7 +1,7 @@
 <div align="center">
 <!-- TOP COLORFUL LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=12&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=15&width=100%"/>
 </p>
 
 <p align="center">
