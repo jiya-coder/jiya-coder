@@ -1,6 +1,6 @@
 <div align="center">
 <!-- TOP COLORFUL LINE -->
-<p align="center">
+<p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5"/>
 </p>
 
@@ -124,7 +124,7 @@ Welcome to my Github profile!
 </p>
 
 <!-- BOTTOM COLORFUL LINE -->
-<p align="center">
+<p align="center"  width="100%">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=5"/>
 </p>
 
